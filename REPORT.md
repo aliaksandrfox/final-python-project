@@ -3,11 +3,11 @@
 **Student:** 
 •	Aliaksandr Lisouski
  alecsli@ac.sce.ac.il
-ID: 345690366
+
 
 •	Yavgeni Karavkin
  ivgenkr@ac.sce.ac.il
-ID: 345605737
+
 
 **GitHub Repo:** https://github.com/aliaksandrfox/final-python-project  
 **Public App URL:** http://128.251.225.63:5000/api/doc
